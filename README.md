@@ -171,6 +171,6 @@ Untuk menjalankan proyek ini di Google Colaboratory:
 
 ## 6. Kontributor
 
-* [Nama Lengkap Anda] - [Peran Anda dalam Proyek, misalnya: Data Analyst, Developer]
-* [Nama Anggota Kelompok Lainnya (jika ada)] - [Peran mereka]
-    * *(Tambahkan nama-nama anggota kelompok Anda di sini)*
+* EKO ZULIYANTO - Buat Code,Laporan Di github Presentasi Video
+* JOSEPHEN SIADARI - Editing, Bantu buat code, Presentasi Video
+* GUGHI AHMAD LUTHFIAN - Bantu Buat Code, Presentasi Video
