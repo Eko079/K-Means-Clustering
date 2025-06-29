@@ -171,6 +171,6 @@ Untuk menjalankan proyek ini di Google Colaboratory:
 
 ## 6. Kontributor
 
-* EKO ZULIYANTO - Buat Code,Laporan Di Github, Presentasi Video
-* JOSEPHEN SIADARI - Editing, Bantu buat code, Presentasi Video
-* GUGHI AHMAD LUTHFIAN - Bantu Buat Code, Presentasi Video
+* EKO ZULIYANTO - Software Developer, Data Researcher, Technical Writer, Video Presenter
+* JOSEPHEN SIADARI - Data Researcher, Content Editor, Technical Assistant, Video Presenter
+* GUGHI AHMAD LUTHFIAN - Data Researcher, Technical Assistant, Video Presenter
