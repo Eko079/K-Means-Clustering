@@ -22,7 +22,6 @@
     * [Bagian 7: Kesimpulan dan Rekomendasi](#bagian-7-kesimpulan-dan-rekomendasi)
 5.  [Cara Menjalankan Proyek](#5-cara-menjalankan-proyek)
 6.  [Kontributor](#6-kontributor)
-7.  [Lisensi](#7-lisensi)
 
 ---
 
@@ -175,7 +174,3 @@ Untuk menjalankan proyek ini di Google Colaboratory:
 * [Nama Lengkap Anda] - [Peran Anda dalam Proyek, misalnya: Data Analyst, Developer]
 * [Nama Anggota Kelompok Lainnya (jika ada)] - [Peran mereka]
     * *(Tambahkan nama-nama anggota kelompok Anda di sini)*
-
-## 7. Lisensi
-
-Proyek ini dilisensikan di bawah lisensi MIT. Lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
